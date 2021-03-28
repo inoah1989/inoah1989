@@ -5,9 +5,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=inoah1989)](https://github.com/inoah1989/github-readme-stats)
 
 
-
-### Github Stats
-
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=inoah1989)](https://github.com/inoah1989/github-readme-stats) -->
 
 ## Solved.ac 
